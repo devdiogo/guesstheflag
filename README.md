@@ -1,6 +1,6 @@
 # Guess the Flag
 
-A simple and clean game to test your country flag knowledge. [Live version here].(https://guesstheflag.vercel.app).
+A simple and clean game to test your country flag knowledge. [Live version here](https://guesstheflag.vercel.app).
 
 ## Overview
 
