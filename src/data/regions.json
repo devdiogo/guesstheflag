@@ -1,0 +1,30 @@
+[
+  {
+    "name": "WORLD",
+    "description": "Worldwide"
+  },
+  {
+    "name": "NA",
+    "description": "North America"
+  },
+  {
+    "name": "SA",
+    "description": "South America"
+  },
+  {
+    "name": "EU",
+    "description": "Europe"
+  },
+  {
+    "name": "AF",
+    "description": "Africa"
+  },
+  {
+    "name": "AS",
+    "description": "Asia"
+  },
+  {
+    "name": "OCE",
+    "description": "Oceania"
+  }
+]

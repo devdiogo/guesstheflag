@@ -1,0 +1,1773 @@
+[
+  {
+    "id": 4,
+    "code": "af",
+    "name": "Afghanistan",
+    "allowedAnswers": [
+      "afghanistan"
+    ],
+    "region": "AS"
+  },
+  {
+    "id": 8,
+    "code": "al",
+    "name": "Albania",
+    "allowedAnswers": [
+      "albania"
+    ],
+    "region": "EU"
+  },
+  {
+    "id": 12,
+    "code": "dz",
+    "name": "Algeria",
+    "allowedAnswers": [
+      "algeria"
+    ],
+    "region": "AF"
+  },
+  {
+    "id": 20,
+    "code": "ad",
+    "name": "Andorra",
+    "allowedAnswers": [
+      "andorra"
+    ],
+    "region": "EU"
+  },
+  {
+    "id": 24,
+    "code": "ao",
+    "name": "Angola",
+    "allowedAnswers": [
+      "angola"
+    ],
+    "region": "AF"
+  },
+  {
+    "id": 28,
+    "code": "ag",
+    "name": "Antigua and Barbuda",
+    "allowedAnswers": [
+      "antigua and barbuda"
+    ],
+    "region": "NA"
+  },
+  {
+    "id": 32,
+    "code": "ar",
+    "name": "Argentina",
+    "allowedAnswers": [
+      "argentina"
+    ],
+    "region": "SA"
+  },
+  {
+    "id": 51,
+    "code": "am",
+    "name": "Armenia",
+    "allowedAnswers": [
+      "armenia"
+    ],
+    "region": "AS"
+  },
+  {
+    "id": 36,
+    "code": "au",
+    "name": "Australia",
+    "allowedAnswers": [
+      "australia"
+    ],
+    "region": "OCE"
+  },
+  {
+    "id": 40,
+    "code": "at",
+    "name": "Austria",
+    "allowedAnswers": [
+      "austria"
+    ],
+    "region": "EU"
+  },
+  {
+    "id": 31,
+    "code": "az",
+    "name": "Azerbaijan",
+    "allowedAnswers": [
+      "azerbaijan"
+    ],
+    "region": "AS"
+  },
+  {
+    "id": 44,
+    "code": "bs",
+    "name": "Bahamas",
+    "allowedAnswers": [
+      "bahamas"
+    ],
+    "region": "NA"
+  },
+  {
+    "id": 48,
+    "code": "bh",
+    "name": "Bahrain",
+    "allowedAnswers": [
+      "bahrain"
+    ],
+    "region": "AS"
+  },
+  {
+    "id": 50,
+    "code": "bd",
+    "name": "Bangladesh",
+    "allowedAnswers": [
+      "bangladesh"
+    ],
+    "region": "AS"
+  },
+  {
+    "id": 52,
+    "code": "bb",
+    "name": "Barbados",
+    "allowedAnswers": [
+      "barbados"
+    ],
+    "region": "NA"
+  },
+  {
+    "id": 112,
+    "code": "by",
+    "name": "Belarus",
+    "allowedAnswers": [
+      "belarus"
+    ],
+    "region": "EU"
+  },
+  {
+    "id": 56,
+    "code": "be",
+    "name": "Belgium",
+    "allowedAnswers": [
+      "belgium"
+    ],
+    "region": "EU"
+  },
+  {
+    "id": 84,
+    "code": "bz",
+    "name": "Belize",
+    "allowedAnswers": [
+      "belize"
+    ],
+    "region": "NA"
+  },
+  {
+    "id": 204,
+    "code": "bj",
+    "name": "Benin",
+    "allowedAnswers": [
+      "benin"
+    ],
+    "region": "AF"
+  },
+  {
+    "id": 64,
+    "code": "bt",
+    "name": "Bhutan",
+    "allowedAnswers": [
+      "bhutan"
+    ],
+    "region": "AS"
+  },
+  {
+    "id": 68,
+    "code": "bo",
+    "name": "Bolivia",
+    "allowedAnswers": [
+      "bolivia"
+    ],
+    "region": "SA"
+  },
+  {
+    "id": 70,
+    "code": "ba",
+    "name": "Bosnia and Herzegovina",
+    "allowedAnswers": [
+      "bosnia",
+      "bosnia and herzegovina"
+    ],
+    "region": "EU"
+  },
+  {
+    "id": 72,
+    "code": "bw",
+    "name": "Botswana",
+    "allowedAnswers": [
+      "botswana"
+    ],
+    "region": "AF"
+  },
+  {
+    "id": 76,
+    "code": "br",
+    "name": "Brazil",
+    "allowedAnswers": [
+      "brazil"
+    ],
+    "region": "SA"
+  },
+  {
+    "id": 96,
+    "code": "bn",
+    "name": "Brunei",
+    "allowedAnswers": [
+      "brunei"
+    ],
+    "region": "AS"
+  },
+  {
+    "id": 100,
+    "code": "bg",
+    "name": "Bulgaria",
+    "allowedAnswers": [
+      "bulgaria"
+    ],
+    "region": "EU"
+  },
+  {
+    "id": 854,
+    "code": "bf",
+    "name": "Burkina Faso",
+    "allowedAnswers": [
+      "burkina faso"
+    ],
+    "region": "AF"
+  },
+  {
+    "id": 108,
+    "code": "bi",
+    "name": "Burundi",
+    "allowedAnswers": [
+      "burundi"
+    ],
+    "region": "AF"
+  },
+  {
+    "id": 132,
+    "code": "cv",
+    "name": "Cabo Verde",
+    "allowedAnswers": [
+      "cabo verde",
+      "cape verde"
+    ],
+    "region": "AF"
+  },
+  {
+    "id": 116,
+    "code": "kh",
+    "name": "Cambodia",
+    "allowedAnswers": [
+      "cambodia"
+    ],
+    "region": "AS"
+  },
+  {
+    "id": 120,
+    "code": "cm",
+    "name": "Cameroon",
+    "allowedAnswers": [
+      "cameroon"
+    ],
+    "region": "AF"
+  },
+  {
+    "id": 124,
+    "code": "ca",
+    "name": "Canada",
+    "allowedAnswers": [
+      "canada"
+    ],
+    "region": "NA"
+  },
+  {
+    "id": 140,
+    "code": "cf",
+    "name": "Central African Republic",
+    "allowedAnswers": [
+      "central african republic"
+    ],
+    "region": "AF"
+  },
+  {
+    "id": 148,
+    "code": "td",
+    "name": "Chad",
+    "allowedAnswers": [
+      "chad"
+    ],
+    "region": "AF"
+  },
+  {
+    "id": 152,
+    "code": "cl",
+    "name": "Chile",
+    "allowedAnswers": [
+      "chile"
+    ],
+    "region": "SA"
+  },
+  {
+    "id": 156,
+    "code": "cn",
+    "name": "China",
+    "allowedAnswers": [
+      "china"
+    ],
+    "region": "AS"
+  },
+  {
+    "id": 170,
+    "code": "co",
+    "name": "Colombia",
+    "allowedAnswers": [
+      "colombia"
+    ],
+    "region": "SA"
+  },
+  {
+    "id": 174,
+    "code": "km",
+    "name": "Comoros",
+    "allowedAnswers": [
+      "comoros"
+    ],
+    "region": "AF"
+  },
+  {
+    "id": 178,
+    "code": "cg",
+    "name": "Republic of the Congo",
+    "allowedAnswers": [
+      "congo",
+      "republic of congo",
+      "republic of the congo"
+    ],
+    "region": "AF"
+  },
+  {
+    "id": 180,
+    "code": "cd",
+    "name": "Democratic Republic of the Congo",
+    "allowedAnswers": [
+      "democratic republic of the congo",
+      "the congo",
+      "dr congo",
+      "droc"
+    ],
+    "region": "AF"
+  },
+  {
+    "id": 188,
+    "code": "cr",
+    "name": "Costa Rica",
+    "allowedAnswers": [
+      "costa rica"
+    ],
+    "region": "NA"
+  },
+  {
+    "id": 384,
+    "code": "ci",
+    "name": "Ivory Coast",
+    "allowedAnswers": [
+      "côte d'ivoire",
+      "ivory coast"
+    ],
+    "region": "AF"
+  },
+  {
+    "id": 191,
+    "code": "hr",
+    "name": "Croatia",
+    "allowedAnswers": [
+      "croatia"
+    ],
+    "region": "EU"
+  },
+  {
+    "id": 192,
+    "code": "cu",
+    "name": "Cuba",
+    "allowedAnswers": [
+      "cuba"
+    ],
+    "region": "NA"
+  },
+  {
+    "id": 196,
+    "code": "cy",
+    "name": "Cyprus",
+    "allowedAnswers": [
+      "cyprus"
+    ],
+    "region": "EU"
+  },
+  {
+    "id": 203,
+    "code": "cz",
+    "name": "Czechia",
+    "allowedAnswers": [
+      "czechia",
+      "czech republic"
+    ],
+    "region": "EU"
+  },
+  {
+    "id": 208,
+    "code": "dk",
+    "name": "Denmark",
+    "allowedAnswers": [
+      "denmark"
+    ],
+    "region": "EU"
+  },
+  {
+    "id": 262,
+    "code": "dj",
+    "name": "Djibouti",
+    "allowedAnswers": [
+      "djibouti"
+    ],
+    "region": "AF"
+  },
+  {
+    "id": 212,
+    "code": "dm",
+    "name": "Dominica",
+    "allowedAnswers": [
+      "dominica"
+    ],
+    "region": "NA"
+  },
+  {
+    "id": 214,
+    "code": "do",
+    "name": "Dominican Republic",
+    "allowedAnswers": [
+      "dominican republic"
+    ],
+    "region": "NA"
+  },
+  {
+    "id": 218,
+    "code": "ec",
+    "name": "Ecuador",
+    "allowedAnswers": [
+      "ecuador"
+    ],
+    "region": "SA"
+  },
+  {
+    "id": 818,
+    "code": "eg",
+    "name": "Egypt",
+    "allowedAnswers": [
+      "egypt"
+    ],
+    "region": "AF"
+  },
+  {
+    "id": 222,
+    "code": "sv",
+    "name": "El Salvador",
+    "allowedAnswers": [
+      "el salvador"
+    ],
+    "region": "NA"
+  },
+  {
+    "id": 226,
+    "code": "gq",
+    "name": "Equatorial Guinea",
+    "allowedAnswers": [
+      "equatorial guinea"
+    ],
+    "region": "AF"
+  },
+  {
+    "id": 232,
+    "code": "er",
+    "name": "Eritrea",
+    "allowedAnswers": [
+      "eritrea"
+    ],
+    "region": "AF"
+  },
+  {
+    "id": 233,
+    "code": "ee",
+    "name": "Estonia",
+    "allowedAnswers": [
+      "estonia"
+    ],
+    "region": "EU"
+  },
+  {
+    "id": 748,
+    "code": "sz",
+    "name": "Eswatini",
+    "allowedAnswers": [
+      "eswatini"
+    ],
+    "region": "AF"
+  },
+  {
+    "id": 231,
+    "code": "et",
+    "name": "Ethiopia",
+    "allowedAnswers": [
+      "ethiopia"
+    ],
+    "region": "AF"
+  },
+  {
+    "id": 242,
+    "code": "fj",
+    "name": "Fiji",
+    "allowedAnswers": [
+      "fiji"
+    ],
+    "region": "OCE"
+  },
+  {
+    "id": 246,
+    "code": "fi",
+    "name": "Finland",
+    "allowedAnswers": [
+      "finland"
+    ],
+    "region": "EU"
+  },
+  {
+    "id": 250,
+    "code": "fr",
+    "name": "France",
+    "allowedAnswers": [
+      "france"
+    ],
+    "region": "EU"
+  },
+  {
+    "id": 266,
+    "code": "ga",
+    "name": "Gabon",
+    "allowedAnswers": [
+      "gabon"
+    ],
+    "region": "AF"
+  },
+  {
+    "id": 270,
+    "code": "gm",
+    "name": "Gambia",
+    "allowedAnswers": [
+      "gambia"
+    ],
+    "region": "AF"
+  },
+  {
+    "id": 268,
+    "code": "ge",
+    "name": "Georgia",
+    "allowedAnswers": [
+      "georgia"
+    ],
+    "region": "AS"
+  },
+  {
+    "id": 276,
+    "code": "de",
+    "name": "Germany",
+    "allowedAnswers": [
+      "germany"
+    ],
+    "region": "EU"
+  },
+  {
+    "id": 288,
+    "code": "gh",
+    "name": "Ghana",
+    "allowedAnswers": [
+      "ghana"
+    ],
+    "region": "AF"
+  },
+  {
+    "id": 300,
+    "code": "gr",
+    "name": "Greece",
+    "allowedAnswers": [
+      "greece"
+    ],
+    "region": "EU"
+  },
+  {
+    "id": 308,
+    "code": "gd",
+    "name": "Grenada",
+    "allowedAnswers": [
+      "grenada"
+    ],
+    "region": "NA"
+  },
+  {
+    "id": 320,
+    "code": "gt",
+    "name": "Guatemala",
+    "allowedAnswers": [
+      "guatemala"
+    ],
+    "region": "NA"
+  },
+  {
+    "id": 324,
+    "code": "gn",
+    "name": "Guinea",
+    "allowedAnswers": [
+      "guinea"
+    ],
+    "region": "AF"
+  },
+  {
+    "id": 624,
+    "code": "gw",
+    "name": "Guinea-Bissau",
+    "allowedAnswers": [
+      "guinea-bissau",
+      "guinea bissau"
+    ],
+    "region": "AF"
+  },
+  {
+    "id": 328,
+    "code": "gy",
+    "name": "Guyana",
+    "allowedAnswers": [
+      "guyana"
+    ],
+    "region": "SA"
+  },
+  {
+    "id": 332,
+    "code": "ht",
+    "name": "Haiti",
+    "allowedAnswers": [
+      "haiti"
+    ],
+    "region": "NA"
+  },
+  {
+    "id": 340,
+    "code": "hn",
+    "name": "Honduras",
+    "allowedAnswers": [
+      "honduras"
+    ],
+    "region": "NA"
+  },
+  {
+    "id": 348,
+    "code": "hu",
+    "name": "Hungary",
+    "allowedAnswers": [
+      "hungary"
+    ],
+    "region": "EU"
+  },
+  {
+    "id": 352,
+    "code": "is",
+    "name": "Iceland",
+    "allowedAnswers": [
+      "iceland"
+    ],
+    "region": "EU"
+  },
+  {
+    "id": 356,
+    "code": "in",
+    "name": "India",
+    "allowedAnswers": [
+      "india"
+    ],
+    "region": "AS"
+  },
+  {
+    "id": 360,
+    "code": "id",
+    "name": "Indonesia",
+    "allowedAnswers": [
+      "indonesia"
+    ],
+    "region": "AS"
+  },
+  {
+    "id": 364,
+    "code": "ir",
+    "name": "Iran",
+    "allowedAnswers": [
+      "iran",
+      "islamic republic of iran"
+    ],
+    "region": "AS"
+  },
+  {
+    "id": 368,
+    "code": "iq",
+    "name": "Iraq",
+    "allowedAnswers": [
+      "iraq"
+    ],
+    "region": "AS"
+  },
+  {
+    "id": 372,
+    "code": "ie",
+    "name": "Ireland",
+    "allowedAnswers": [
+      "ireland"
+    ],
+    "region": "EU"
+  },
+  {
+    "id": 376,
+    "code": "il",
+    "name": "Israel",
+    "allowedAnswers": [
+      "israel"
+    ],
+    "region": "AS"
+  },
+  {
+    "id": 380,
+    "code": "it",
+    "name": "Italy",
+    "allowedAnswers": [
+      "italy"
+    ],
+    "region": "EU"
+  },
+  {
+    "id": 388,
+    "code": "jm",
+    "name": "Jamaica",
+    "allowedAnswers": [
+      "jamaica"
+    ],
+    "region": "NA"
+  },
+  {
+    "id": 392,
+    "code": "jp",
+    "name": "Japan",
+    "allowedAnswers": [
+      "japan"
+    ],
+    "region": "AS"
+  },
+  {
+    "id": 400,
+    "code": "jo",
+    "name": "Jordan",
+    "allowedAnswers": [
+      "jordan"
+    ],
+    "region": "AS"
+  },
+  {
+    "id": 398,
+    "code": "kz",
+    "name": "Kazakhstan",
+    "allowedAnswers": [
+      "kazakhstan"
+    ],
+    "region": "AS"
+  },
+  {
+    "id": 404,
+    "code": "ke",
+    "name": "Kenya",
+    "allowedAnswers": [
+      "kenya"
+    ],
+    "region": "AF"
+  },
+  {
+    "id": 296,
+    "code": "ki",
+    "name": "Kiribati",
+    "allowedAnswers": [
+      "kiribati"
+    ],
+    "region": "OCE"
+  },
+  {
+    "id": 408,
+    "code": "kp",
+    "name": "North Korea",
+    "allowedAnswers": [
+      "north korea",
+      "democratic people's republic of korea",
+      "dprk"
+    ],
+    "region": "AS"
+  },
+  {
+    "id": 410,
+    "code": "kr",
+    "name": "South Korea",
+    "allowedAnswers": [
+      "south korea",
+      "republic of korea",
+      "rok"
+    ],
+    "region": "AS"
+  },
+  {
+    "id": 414,
+    "code": "kw",
+    "name": "Kuwait",
+    "allowedAnswers": [
+      "kuwait"
+    ],
+    "region": "AS"
+  },
+  {
+    "id": 417,
+    "code": "kg",
+    "name": "Kyrgyzstan",
+    "allowedAnswers": [
+      "kyrgyzstan"
+    ],
+    "region": "AS"
+  },
+  {
+    "id": 418,
+    "code": "la",
+    "name": "Laos",
+    "allowedAnswers": [
+      "laos",
+      "lao people's democratic republic"
+    ],
+    "region": "AS"
+  },
+  {
+    "id": 428,
+    "code": "lv",
+    "name": "Latvia",
+    "allowedAnswers": [
+      "latvia"
+    ],
+    "region": "EU"
+  },
+  {
+    "id": 422,
+    "code": "lb",
+    "name": "Lebanon",
+    "allowedAnswers": [
+      "lebanon"
+    ],
+    "region": "AS"
+  },
+  {
+    "id": 426,
+    "code": "ls",
+    "name": "Lesotho",
+    "allowedAnswers": [
+      "lesotho"
+    ],
+    "region": "AF"
+  },
+  {
+    "id": 430,
+    "code": "lr",
+    "name": "Liberia",
+    "allowedAnswers": [
+      "liberia"
+    ],
+    "region": "AF"
+  },
+  {
+    "id": 434,
+    "code": "ly",
+    "name": "Libya",
+    "allowedAnswers": [
+      "libya"
+    ],
+    "region": "AF"
+  },
+  {
+    "id": 438,
+    "code": "li",
+    "name": "Liechtenstein",
+    "allowedAnswers": [
+      "liechtenstein"
+    ],
+    "region": "EU"
+  },
+  {
+    "id": 440,
+    "code": "lt",
+    "name": "Lithuania",
+    "allowedAnswers": [
+      "lithuania"
+    ],
+    "region": "EU"
+  },
+  {
+    "id": 442,
+    "code": "lu",
+    "name": "Luxembourg",
+    "allowedAnswers": [
+      "luxembourg"
+    ],
+    "region": "EU"
+  },
+  {
+    "id": 450,
+    "code": "mg",
+    "name": "Madagascar",
+    "allowedAnswers": [
+      "madagascar"
+    ],
+    "region": "AF"
+  },
+  {
+    "id": 454,
+    "code": "mw",
+    "name": "Malawi",
+    "allowedAnswers": [
+      "malawi"
+    ],
+    "region": "AF"
+  },
+  {
+    "id": 458,
+    "code": "my",
+    "name": "Malaysia",
+    "allowedAnswers": [
+      "malaysia"
+    ],
+    "region": "AS"
+  },
+  {
+    "id": 462,
+    "code": "mv",
+    "name": "Maldives",
+    "allowedAnswers": [
+      "maldives"
+    ],
+    "region": "AS"
+  },
+  {
+    "id": 466,
+    "code": "ml",
+    "name": "Mali",
+    "allowedAnswers": [
+      "mali"
+    ],
+    "region": "AF"
+  },
+  {
+    "id": 470,
+    "code": "mt",
+    "name": "Malta",
+    "allowedAnswers": [
+      "malta"
+    ],
+    "region": "EU"
+  },
+  {
+    "id": 584,
+    "code": "mh",
+    "name": "Marshall Islands",
+    "allowedAnswers": [
+      "marshall islands"
+    ],
+    "region": "OCE"
+  },
+  {
+    "id": 478,
+    "code": "mr",
+    "name": "Mauritania",
+    "allowedAnswers": [
+      "mauritania"
+    ],
+    "region": "AF"
+  },
+  {
+    "id": 480,
+    "code": "mu",
+    "name": "Mauritius",
+    "allowedAnswers": [
+      "mauritius"
+    ],
+    "region": "AF"
+  },
+  {
+    "id": 484,
+    "code": "mx",
+    "name": "Mexico",
+    "allowedAnswers": [
+      "mexico",
+      "united mexican states"
+    ],
+    "region": "NA"
+  },
+  {
+    "id": 583,
+    "code": "fm",
+    "name": "Micronesia",
+    "allowedAnswers": [
+      "micronesia",
+      "federated states of micronesia"
+    ],
+    "region": "OCE"
+  },
+  {
+    "id": 498,
+    "code": "md",
+    "name": "Moldova",
+    "allowedAnswers": [
+      "moldova",
+      "republic of moldova"
+    ],
+    "region": "EU"
+  },
+  {
+    "id": 492,
+    "code": "mc",
+    "name": "Monaco",
+    "allowedAnswers": [
+      "monaco"
+    ],
+    "region": "EU"
+  },
+  {
+    "id": 496,
+    "code": "mn",
+    "name": "Mongolia",
+    "allowedAnswers": [
+      "mongolia"
+    ],
+    "region": "AS"
+  },
+  {
+    "id": 499,
+    "code": "me",
+    "name": "Montenegro",
+    "allowedAnswers": [
+      "montenegro"
+    ],
+    "region": "EU"
+  },
+  {
+    "id": 504,
+    "code": "ma",
+    "name": "Morocco",
+    "allowedAnswers": [
+      "morocco"
+    ],
+    "region": "AF"
+  },
+  {
+    "id": 508,
+    "code": "mz",
+    "name": "Mozambique",
+    "allowedAnswers": [
+      "mozambique"
+    ],
+    "region": "AF"
+  },
+  {
+    "id": 104,
+    "code": "mm",
+    "name": "Myanmar",
+    "allowedAnswers": [
+      "myanmar"
+    ],
+    "region": "AS"
+  },
+  {
+    "id": 516,
+    "code": "na",
+    "name": "Namibia",
+    "allowedAnswers": [
+      "namibia"
+    ],
+    "region": "AF"
+  },
+  {
+    "id": 520,
+    "code": "nr",
+    "name": "Nauru",
+    "allowedAnswers": [
+      "nauru"
+    ],
+    "region": "OCE"
+  },
+  {
+    "id": 524,
+    "code": "np",
+    "name": "Nepal",
+    "allowedAnswers": [
+      "nepal"
+    ],
+    "region": "AS"
+  },
+  {
+    "id": 528,
+    "code": "nl",
+    "name": "Netherlands",
+    "allowedAnswers": [
+      "netherlands"
+    ],
+    "region": "EU"
+  },
+  {
+    "id": 554,
+    "code": "nz",
+    "name": "New Zealand",
+    "allowedAnswers": [
+      "new zealand"
+    ],
+    "region": "OCE"
+  },
+  {
+    "id": 558,
+    "code": "ni",
+    "name": "Nicaragua",
+    "allowedAnswers": [
+      "nicaragua"
+    ],
+    "region": "NA"
+  },
+  {
+    "id": 562,
+    "code": "ne",
+    "name": "Niger",
+    "allowedAnswers": [
+      "niger"
+    ],
+    "region": "AF"
+  },
+  {
+    "id": 566,
+    "code": "ng",
+    "name": "Nigeria",
+    "allowedAnswers": [
+      "nigeria"
+    ],
+    "region": "AF"
+  },
+  {
+    "id": 807,
+    "code": "mk",
+    "name": "North Macedonia",
+    "allowedAnswers": [
+      "macedonia",
+      "north macedonia"
+    ],
+    "region": "EU"
+  },
+  {
+    "id": 578,
+    "code": "no",
+    "name": "Norway",
+    "allowedAnswers": [
+      "norway"
+    ],
+    "region": "EU"
+  },
+  {
+    "id": 512,
+    "code": "om",
+    "name": "Oman",
+    "allowedAnswers": [
+      "oman"
+    ],
+    "region": "AS"
+  },
+  {
+    "id": 586,
+    "code": "pk",
+    "name": "Pakistan",
+    "allowedAnswers": [
+      "pakistan"
+    ],
+    "region": "AS"
+  },
+  {
+    "id": 585,
+    "code": "pw",
+    "name": "Palau",
+    "allowedAnswers": [
+      "palau"
+    ],
+    "region": "OCE"
+  },
+  {
+    "id": 591,
+    "code": "pa",
+    "name": "Panama",
+    "allowedAnswers": [
+      "panama"
+    ],
+    "region": "NA"
+  },
+  {
+    "id": 598,
+    "code": "pg",
+    "name": "Papua New Guinea",
+    "allowedAnswers": [
+      "papua new guinea"
+    ],
+    "region": "OCE"
+  },
+  {
+    "id": 600,
+    "code": "py",
+    "name": "Paraguay",
+    "allowedAnswers": [
+      "paraguay"
+    ],
+    "region": "SA"
+  },
+  {
+    "id": 604,
+    "code": "pe",
+    "name": "Peru",
+    "allowedAnswers": [
+      "peru"
+    ],
+    "region": "SA"
+  },
+  {
+    "id": 608,
+    "code": "ph",
+    "name": "Philippines",
+    "allowedAnswers": [
+      "philippines"
+    ],
+    "region": "AS"
+  },
+  {
+    "id": 616,
+    "code": "pl",
+    "name": "Poland",
+    "allowedAnswers": [
+      "poland"
+    ],
+    "region": "EU"
+  },
+  {
+    "id": 620,
+    "code": "pt",
+    "name": "Portugal",
+    "allowedAnswers": [
+      "portugal"
+    ],
+    "region": "EU"
+  },
+  {
+    "id": 634,
+    "code": "qa",
+    "name": "Qatar",
+    "allowedAnswers": [
+      "qatar"
+    ],
+    "region": "AS"
+  },
+  {
+    "id": 642,
+    "code": "ro",
+    "name": "Romania",
+    "allowedAnswers": [
+      "romania"
+    ],
+    "region": "EU"
+  },
+  {
+    "id": 643,
+    "code": "ru",
+    "name": "Russia",
+    "allowedAnswers": [
+      "russia",
+      "russian federation"
+    ],
+    "region": "EU"
+  },
+  {
+    "id": 646,
+    "code": "rw",
+    "name": "Rwanda",
+    "allowedAnswers": [
+      "rwanda"
+    ],
+    "region": "AF"
+  },
+  {
+    "id": 659,
+    "code": "kn",
+    "name": "Saint Kitts and Nevis",
+    "allowedAnswers": [
+      "saint kitts and nevis",
+      "st kitts and nevis"
+    ],
+    "region": "NA"
+  },
+  {
+    "id": 662,
+    "code": "lc",
+    "name": "Saint Lucia",
+    "allowedAnswers": [
+      "saint lucia",
+      "st lucia"
+    ],
+    "region": "NA"
+  },
+  {
+    "id": 670,
+    "code": "vc",
+    "name": "Saint Vincent and the Grenadines",
+    "allowedAnswers": [
+      "saint vincent and the grenadines",
+      "st vincent and the grenadines"
+    ],
+    "region": "NA"
+  },
+  {
+    "id": 882,
+    "code": "ws",
+    "name": "Samoa",
+    "allowedAnswers": [
+      "samoa"
+    ],
+    "region": "OCE"
+  },
+  {
+    "id": 674,
+    "code": "sm",
+    "name": "San Marino",
+    "allowedAnswers": [
+      "san marino"
+    ],
+    "region": "EU"
+  },
+  {
+    "id": 678,
+    "code": "st",
+    "name": "Sao Tome and Principe",
+    "allowedAnswers": [
+      "sao tome and principe",
+      "são tomé and príncipe"
+    ],
+    "region": "AF"
+  },
+  {
+    "id": 682,
+    "code": "sa",
+    "name": "Saudi Arabia",
+    "allowedAnswers": [
+      "saudi arabia"
+    ],
+    "region": "AS"
+  },
+  {
+    "id": 686,
+    "code": "sn",
+    "name": "Senegal",
+    "allowedAnswers": [
+      "senegal"
+    ],
+    "region": "AF"
+  },
+  {
+    "id": 688,
+    "code": "rs",
+    "name": "Serbia",
+    "allowedAnswers": [
+      "serbia"
+    ],
+    "region": "EU"
+  },
+  {
+    "id": 690,
+    "code": "sc",
+    "name": "Seychelles",
+    "allowedAnswers": [
+      "seychelles"
+    ],
+    "region": "AF"
+  },
+  {
+    "id": 694,
+    "code": "sl",
+    "name": "Sierra Leone",
+    "allowedAnswers": [
+      "sierra leone"
+    ],
+    "region": "AF"
+  },
+  {
+    "id": 702,
+    "code": "sg",
+    "name": "Singapore",
+    "allowedAnswers": [
+      "singapore"
+    ],
+    "region": "AS"
+  },
+  {
+    "id": 703,
+    "code": "sk",
+    "name": "Slovakia",
+    "allowedAnswers": [
+      "slovakia"
+    ],
+    "region": "EU"
+  },
+  {
+    "id": 705,
+    "code": "si",
+    "name": "Slovenia",
+    "allowedAnswers": [
+      "slovenia"
+    ],
+    "region": "EU"
+  },
+  {
+    "id": 90,
+    "code": "sb",
+    "name": "Solomon Islands",
+    "allowedAnswers": [
+      "solomon islands"
+    ],
+    "region": "OCE"
+  },
+  {
+    "id": 706,
+    "code": "so",
+    "name": "Somalia",
+    "allowedAnswers": [
+      "somalia"
+    ],
+    "region": "AF"
+  },
+  {
+    "id": 710,
+    "code": "za",
+    "name": "South Africa",
+    "allowedAnswers": [
+      "south africa"
+    ],
+    "region": "AF"
+  },
+  {
+    "id": 728,
+    "code": "ss",
+    "name": "South Sudan",
+    "allowedAnswers": [
+      "south sudan"
+    ],
+    "region": "AF"
+  },
+  {
+    "id": 724,
+    "code": "es",
+    "name": "Spain",
+    "allowedAnswers": [
+      "spain"
+    ],
+    "region": "EU"
+  },
+  {
+    "id": 144,
+    "code": "lk",
+    "name": "Sri Lanka",
+    "allowedAnswers": [
+      "sri lanka"
+    ],
+    "region": "AS"
+  },
+  {
+    "id": 729,
+    "code": "sd",
+    "name": "Sudan",
+    "allowedAnswers": [
+      "sudan"
+    ],
+    "region": "AF"
+  },
+  {
+    "id": 740,
+    "code": "sr",
+    "name": "Suriname",
+    "allowedAnswers": [
+      "suriname"
+    ],
+    "region": "SA"
+  },
+  {
+    "id": 752,
+    "code": "se",
+    "name": "Sweden",
+    "allowedAnswers": [
+      "sweden"
+    ],
+    "region": "EU"
+  },
+  {
+    "id": 756,
+    "code": "ch",
+    "name": "Switzerland",
+    "allowedAnswers": [
+      "switzerland"
+    ],
+    "region": "EU"
+  },
+  {
+    "id": 760,
+    "code": "sy",
+    "name": "Syria",
+    "allowedAnswers": [
+      "syria",
+      "syrian arab republic"
+    ],
+    "region": "AS"
+  },
+  {
+    "id": 762,
+    "code": "tj",
+    "name": "Tajikistan",
+    "allowedAnswers": [
+      "tajikistan"
+    ],
+    "region": "AS"
+  },
+  {
+    "id": 834,
+    "code": "tz",
+    "name": "Tanzania",
+    "allowedAnswers": [
+      "tanzania",
+      "united republic of tanzania"
+    ],
+    "region": "AF"
+  },
+  {
+    "id": 764,
+    "code": "th",
+    "name": "Thailand",
+    "allowedAnswers": [
+      "thailand"
+    ],
+    "region": "AS"
+  },
+  {
+    "id": 626,
+    "code": "tl",
+    "name": "Timor-Leste",
+    "allowedAnswers": [
+      "east timor",
+      "timor-leste",
+      "timor leste"
+    ],
+    "region": "AS"
+  },
+  {
+    "id": 768,
+    "code": "tg",
+    "name": "Togo",
+    "allowedAnswers": [
+      "togo"
+    ],
+    "region": "AF"
+  },
+  {
+    "id": 776,
+    "code": "to",
+    "name": "Tonga",
+    "allowedAnswers": [
+      "tonga"
+    ],
+    "region": "OCE"
+  },
+  {
+    "id": 780,
+    "code": "tt",
+    "name": "Trinidad and Tobago",
+    "allowedAnswers": [
+      "trinidad and tobago"
+    ],
+    "region": "NA"
+  },
+  {
+    "id": 788,
+    "code": "tn",
+    "name": "Tunisia",
+    "allowedAnswers": [
+      "tunisia"
+    ],
+    "region": "AF"
+  },
+  {
+    "id": 792,
+    "code": "tr",
+    "name": "Turkey",
+    "allowedAnswers": [
+      "turkey"
+    ],
+    "region": "AS"
+  },
+  {
+    "id": 795,
+    "code": "tm",
+    "name": "Turkmenistan",
+    "allowedAnswers": [
+      "turkmenistan"
+    ],
+    "region": "AS"
+  },
+  {
+    "id": 798,
+    "code": "tv",
+    "name": "Tuvalu",
+    "allowedAnswers": [
+      "tuvalu"
+    ],
+    "region": "OCE"
+  },
+  {
+    "id": 800,
+    "code": "ug",
+    "name": "Uganda",
+    "allowedAnswers": [
+      "uganda"
+    ],
+    "region": "AF"
+  },
+  {
+    "id": 804,
+    "code": "ua",
+    "name": "Ukraine",
+    "allowedAnswers": [
+      "ukraine"
+    ],
+    "region": "EU"
+  },
+  {
+    "id": 784,
+    "code": "ae",
+    "name": "United Arab Emirates",
+    "allowedAnswers": [
+      "united arab emirates",
+      "uae"
+    ],
+    "region": "AS"
+  },
+  {
+    "id": 826,
+    "code": "gb",
+    "name": "United Kingdom",
+    "allowedAnswers": [
+      "united kingdom",
+      "uk"
+    ],
+    "region": "EU"
+  },
+  {
+    "id": 840,
+    "code": "us",
+    "name": "United States of America",
+    "allowedAnswers": [
+      "united states of america",
+      "usa"
+    ],
+    "region": "NA"
+  },
+  {
+    "id": 858,
+    "code": "uy",
+    "name": "Uruguay",
+    "allowedAnswers": [
+      "uruguay"
+    ],
+    "region": "SA"
+  },
+  {
+    "id": 860,
+    "code": "uz",
+    "name": "Uzbekistan",
+    "allowedAnswers": [
+      "uzbekistan"
+    ],
+    "region": "AS"
+  },
+  {
+    "id": 548,
+    "code": "vu",
+    "name": "Vanuatu",
+    "allowedAnswers": [
+      "vanuatu"
+    ],
+    "region": "OCE"
+  },
+  {
+    "id": 862,
+    "code": "ve",
+    "name": "Venezuela",
+    "allowedAnswers": [
+      "venezuela",
+      "bolivarian republic of venezuela"
+    ],
+    "region": "SA"
+  },
+  {
+    "id": 704,
+    "code": "vn",
+    "name": "Vietnam",
+    "allowedAnswers": [
+      "vietnam",
+      "viet nam"
+    ],
+    "region": "AS"
+  },
+  {
+    "id": 887,
+    "code": "ye",
+    "name": "Yemen",
+    "allowedAnswers": [
+      "yemen"
+    ],
+    "region": "AS"
+  },
+  {
+    "id": 894,
+    "code": "zm",
+    "name": "Zambia",
+    "allowedAnswers": [
+      "zambia"
+    ],
+    "region": "AF"
+  },
+  {
+    "id": 716,
+    "code": "zw",
+    "name": "Zimbabwe",
+    "allowedAnswers": [
+      "zimbabwe"
+    ],
+    "region": "AF"
+  }
+]
